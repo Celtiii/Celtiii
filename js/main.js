@@ -1,3 +1,3 @@
-document.addEventListener("Load" , e => {
+document.querySelector(.p).addEventListener("Load" , e => {
   alert ("b");
 })
